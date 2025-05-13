@@ -20,8 +20,8 @@ This tool analyzes feature flag configurations to identify dependencies where a 
 
 3. Install Node.js dependencies:
    ```
-npm init -y
-npm install graphviz
+   npm init -y
+   npm install graphviz
    ```
 
 4. Install [Graphviz](https://graphviz.org/download/) on your system:
